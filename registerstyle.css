@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    background-image: url(../anime/images/login\ page\ bg.jpg);
+}
+.input-group {
+    width: 380px;
+    height: 540px;
+    position: relative;
+    margin: 2% auto;
+    overflow: hidden;
+    background: border-box;
+}
+.input{
+    top: 150px;
+	position:absolute;
+	width:280px;
+	transition:.5s;
+    background: border-box;
+    color:antiquewhite;
+}
+h1.register {
+    display: contents;
+    text-shadow: #FC0 1px 0 10px;
+}
+label {
+    display: contents;
+}
+.form-group{
+    width: 100%;
+	padding:10px 0;
+	margin:5px 0;
+	border-left:0;
+	border-top:0;
+	border-right:0;
+
+	outline:none;
+	background: aliceblue;
+    border-radius: 10px;
+}
+.btn{
+    width: 50%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background: #F3C693;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+}
+a{
+    display: contents;
+    color: #2921a5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
